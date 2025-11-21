@@ -1,4 +1,4 @@
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim:
 
